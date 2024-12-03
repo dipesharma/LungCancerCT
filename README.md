@@ -7,3 +7,4 @@ save the model after this (code for saving already present)
 Now upload your saved model in the main.py file
 the main.py code uses streamlit to give our project a interface
 
+Kaggle dataset link - https://www.kaggle.com/datasets/borhanitrash/lung-cancer-ct-scan-dataset 
